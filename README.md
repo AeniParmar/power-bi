@@ -98,6 +98,7 @@ The following data assets were used to gather information about bank customers:
 
 
 ![image](https://github.com/user-attachments/assets/c62ba912-5dc1-4dca-b4af-45f3cee8853a)
+![Uploading image.png…]()
 
 
 ---
