@@ -109,4 +109,3 @@ The following data assets were used to gather information about bank customers:
 
 ---
 
-Let me know if you'd like additional customization!
